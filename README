@@ -1,0 +1,10 @@
+# COMMANDS
+
+# Create venv
+python -m venv fastapi
+
+# Activate venv
+source ./fastapi/bin/activate
+
+# Run
+uvicorn mlapi:app --relaod

@@ -1,0 +1,6 @@
+{
+  "YearsAtCompany": 1, // Float value
+  "EmployeeSatisfaction": 0.01, // Float value
+  "Position":"Non-Manager" // Manager or Non-Manager
+  "Salary": 4.0
+}
